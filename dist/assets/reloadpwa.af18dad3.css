@@ -1,0 +1,1 @@
+.pwa-toast{position:fixed;right:0;top:0;z-index:9999;animation:pwatoast .4s ease 1;display:flex}@keyframes pwatoast{0%{opacity:0;transform:translate(60%)}to{opacity:1}}

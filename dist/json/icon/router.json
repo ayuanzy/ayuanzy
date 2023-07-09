@@ -1,0 +1,44 @@
+[
+  {
+    "name": "推荐",
+    "icon": "home",
+    "sort": 1,
+    "id": "aehsiadhkajsdkeq",
+    "path": "1.json"
+  },
+  {
+    "name": "编程",
+    "icon": "code",
+    "sort": 2,
+    "id": "aeaewqwqjsdkeq",
+    "path": "2.json"
+  },
+  {
+    "name": "设计",
+    "icon": "Darw",
+    "id": "aeaqjsdkeq",
+    "sort": 3,
+    "path": "3.json"
+  },
+  {
+    "name": "产品",
+    "icon": "Producthunt",
+    "sort": 4,
+    "id": "123bnb543bn24vb23",
+    "path": "4.json"
+  },
+  {
+    "name": "AI",
+    "icon": "Ai",
+    "sort": 5,
+    "id": "24b3h2j42b4j2",
+    "path": "5.json"
+  },
+  {
+    "name": "摸鱼",
+    "sort": 6,
+    "icon": "entertainment",
+    "id": "24324j3i2o4ji32",
+    "path": "6.json"
+  }
+]

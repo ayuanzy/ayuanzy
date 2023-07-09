@@ -1,0 +1,70 @@
+.loading-box {
+    --a-loading-width: 16px;
+    --a-loading-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    user-select: none;
+    pointer-events: all;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    inset: 0;
+    z-index: 99999;
+}
+
+.loading {
+    margin: 0 auto;
+}
+
+.loading span {
+    display: inline-block;
+    width: var(--a-loading-width);
+    height: var(--a-loading-height);
+    margin: 6px;
+    background-color: currentColor;
+    transform-origin: right bottom;
+    transition: all 2s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    animation: load 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite;
+}
+
+.loading span:nth-child(1) {
+    animation-delay: 0.13s;
+    background-color: chocolate;
+}
+
+.loading span:nth-child(2) {
+    animation-delay: 0.26s;
+    background-color: red;
+}
+
+.loading span:nth-child(3) {
+    animation-delay: 0.39s;
+    background-color: blueviolet;
+}
+
+.loading span:nth-child(4) {
+    animation-delay: 0.52s;
+    background-color: brown;
+}
+
+.loading span:nth-child(5) {
+    animation-delay: 0.65s;
+    background-color: rgb(0, 238, 255);
+}
+
+@keyframes load {
+    from {
+        opacity: 1;
+        border-radius: 2px;
+    }
+
+    to {
+        opacity: 0;
+        border-radius: calc(var(--a-loading-height) * 2);
+    }
+}

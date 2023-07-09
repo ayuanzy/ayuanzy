@@ -1,0 +1,178 @@
+[
+  {
+    "id": "xiaohongshu-2",
+    "url": "https://www.xiaohongshu.com/explore",
+    "type": "icon",
+    "name": "小红书",
+    "bcolor": "#ff2442"
+  },
+  {
+    "id": "RHza5iCO0",
+    "url": "https://weibo.com/",
+    "type": "icon",
+    "name": "新浪微博",
+    "bcolor": "#ffd850"
+  },
+  {
+    "id": "hBDW2dtTJ",
+    "url": "https://www.iqiyi.com/?vfm=f_432_dhm&fv=8648154ddd63e0af",
+    "type": "icon",
+    "name": "爱奇艺",
+    "bcolor": "#00cc4c",
+    "view": 1
+  },
+  {
+    "id": "vgXmpPPaJ",
+    "url": "http://www.youku.com",
+    "type": "icon",
+    "name": "优酷",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "NnuH_lGqe",
+    "url": "http://v.qq.com/",
+    "type": "icon",
+    "name": "腾讯视频",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "KHgOwEaEwALR14p0tVq_W",
+    "url": "https://www.bilibili.com/",
+    "type": "icon",
+    "name": "Bilibili",
+    "bcolor": "#fe65a6"
+  },
+  {
+    "id": "3kcHk8fDe",
+    "url": "https://www.zhihu.com/",
+    "type": "icon",
+    "name": "知乎",
+    "bcolor": "#0c6dfe"
+  },
+  {
+    "id": "VqqNHgaf-",
+    "url": "https://store.steampowered.com/",
+    "type": "icon",
+    "name": "Steam",
+    "bcolor": "#000000"
+  },
+  {
+    "id": "-Q8KQDvzf",
+    "url": "https://www.douyin.com/",
+    "type": "icon",
+    "name": "抖音",
+    "bcolor": "#1c0b1a"
+  },
+  {
+    "id": "2ykpQ4jnS",
+    "url": "https://www.yikm.net/",
+    "type": "icon",
+    "name": "小霸王",
+    "bcolor": "#1499b5"
+  },
+  {
+    "id": "CSGfty1NQ",
+    "url": "https://www.4399.com/",
+    "type": "icon",
+    "name": "4399小游戏",
+    "bcolor": "#f19425"
+  },
+  {
+    "id": "Ar6V8x5ep",
+    "url": "http://www.huya.com/",
+    "type": "icon",
+    "name": "虎牙直播",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "G7LefZAPp",
+    "url": "https://www.douyu.com/",
+    "type": "icon",
+    "name": "斗鱼",
+    "bcolor": "#ff6a2d"
+  },
+  {
+    "id": "syQ_7OWpr",
+    "url": "https://bgmlist.com/",
+    "type": "icon",
+    "name": "番组放送",
+    "bcolor": "#1abc9c"
+  },
+  {
+    "id": "DMW71i6ra-1",
+    "url": "https://rebang.today/?from=itab.link",
+    "type": "icon",
+    "name": "今日热榜",
+    "bcolor": "#165dff"
+  },
+  {
+    "id": "E73yZrjb-",
+    "url": "https://fanqienovel.com/",
+    "type": "icon",
+    "name": "番茄小说网",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "Xwvd40Z80",
+    "url": "https://bcy.net",
+    "type": "icon",
+    "name": "半次元",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "P9JTzK_tG",
+    "url": "https://www.xiaozhongjishu.com/?from=itab",
+    "type": "icon",
+    "name": "小众技术资源库",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "oTRgyT2MF",
+    "url": "http://www.douban.com",
+    "type": "icon",
+    "name": "豆瓣",
+    "bcolor": "#00c117"
+  },
+  {
+    "id": "IC2ssYXhT",
+    "url": "http://www.smzdm.com/?from=itab.link",
+    "type": "icon",
+    "name": "什么值得买",
+    "bcolor": "#ed1c24"
+  },
+  {
+    "id": "iOtWHp7dU",
+    "url": "https://weread.qq.com/",
+    "type": "icon",
+    "name": "微信读书",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "K7ZGh5_g727uAnbrtsNMV",
+    "url": "https://www.ghxi.com/",
+    "type": "icon",
+    "name": "果核剥壳",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "itab_toonme",
+    "url": "https://toonme.com/",
+    "type": "icon",
+    "name": "漫画生成",
+    "bcolor": "#ffb329"
+  },
+  {
+    "id": "kemoji",
+    "url": "https://tikolu.net/emojimix/",
+    "type": "icon",
+    "name": "emoji合成",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "appcikee",
+    "url": "https://appwall.today/",
+    "type": "icon",
+    "name": "App每日限免",
+    "bcolor": "#34b960"
+  }
+]

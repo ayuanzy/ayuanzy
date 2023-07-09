@@ -1,0 +1,129 @@
+[
+  {
+    "id": "xLiON51K5",
+    "url": "https://www.apifox.cn/a1itabweb",
+    "type": "icon",
+    "name": "Apifox",
+    "bcolor": "#f4425f",
+    "content": "更先进的 API 设计/开发/测试工具"
+  },
+  {
+    "id": "CZHjnJIMB",
+    "url": "https://github.com/",
+    "type": "icon",
+    "name": "GitHub",
+    "bcolor": "#000"
+  },
+  {
+    "id": "geekbang-",
+    "url": "https://time.geekbang.org/?utm_term=iTab&utm_source=iTab&utm_medium=iTab&utm_campaign=iTab&utm_content=iTab",
+    "type": "icon",
+    "name": "极客时间",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "sfPX-WRi0",
+    "url": "http://www.v2ex.com/",
+    "type": "icon",
+    "name": "V2EX",
+    "bcolor": "#222222"
+  },
+  {
+    "id": "zsTvF1WI3",
+    "url": "https://zh-hans.reactjs.org/",
+    "type": "icon",
+    "name": "React",
+    "bcolor": "#27333b"
+  },
+  {
+    "id": "Svyvhe-MI",
+    "url": "https://mrjokersince1997.github.io/My-Notes/#/",
+    "type": "icon",
+    "name": "Java学习",
+    "bcolor": "#1c1c1c"
+  },
+  {
+    "id": "yQv_IiTzL",
+    "url": "https://gitee.com/",
+    "type": "icon",
+    "name": "码云Gitee",
+    "bcolor": "#bb2124"
+  },
+  {
+    "id": "NKfU43cp6",
+    "url": "http://www.csdn.net/",
+    "type": "icon",
+    "name": "CSDN",
+    "bcolor": "#cc001b"
+  },
+  {
+    "id": "9ivZt9a2i",
+    "url": "http://www.w3school.com.cn",
+    "type": "icon",
+    "name": "w3school在线教程",
+    "bcolor": "#cc3333"
+  },
+  {
+    "id": "omCrX5KHJ",
+    "url": "https://stackoverflow.com/",
+    "type": "icon",
+    "name": "Stack Overflow",
+    "bcolor": "#444444"
+  },
+  {
+    "id": "Cp9wFUk43",
+    "url": "https://juejin.cn/",
+    "type": "icon",
+    "name": "掘金",
+    "bcolor": "#0984fe"
+  },
+  {
+    "id": "zGsb_kZ9_",
+    "url": "https://leetcode.cn/",
+    "type": "icon",
+    "name": "力扣",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "lG5SopVNY",
+    "url": "https://cn.vuejs.org/",
+    "type": "icon",
+    "name": "Vue2",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "Qz-7AjQ2j-0LgOW1gvzs8",
+    "url": "https://arco.design",
+    "type": "icon",
+    "name": "Arco Design",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "dGKow0Xcz",
+    "url": "https://www.antdv.com/docs/vue/introduce-cn/",
+    "type": "icon",
+    "name": "Ant Design Vue",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "vjMN3-WZq",
+    "url": "http://www.oschina.net/",
+    "type": "icon",
+    "name": "开源中国",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "vflKyWV5I91jKj2XGpWp-",
+    "url": "https://www.asiayun.com/",
+    "type": "icon",
+    "name": "亚云",
+    "bcolor": "#34b960"
+  },
+  {
+    "id": "hTirVJgmj-kaifa",
+    "url": "https://kaifa.baidu.com/",
+    "type": "icon",
+    "name": "开发者搜索",
+    "bcolor": "#34b960"
+  }
+]

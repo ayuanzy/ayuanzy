@@ -1,0 +1,75 @@
+{
+    "Home": {
+        "name": "Home",
+        "title": "首页",
+        "classtype": 1,
+        "type": "group",
+        "is_route": "home",
+        "is_menu": true,
+        "href": ""
+    },
+    "IconList": {
+        "name": "IconList",
+        "title": "书签",
+        "classtype": 2,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    },
+    "Notive": {
+        "name": "Notive",
+        "title": "信箱",
+        "classtype": 3,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    },
+    "Acolor": {
+        "name": "Acolor",
+        "title": "色彩",
+        "classtype": 3,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    },
+    "AWallpaper": {
+        "name": "AWallpaper",
+        "title": "壁纸",
+        "classtype": 3,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    },
+    "Peer": {
+        "name": "Peer",
+        "title": "传输",
+        "classtype": 2,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    },
+    "Login": {
+        "name": "Login",
+        "title": "登入",
+        "classtype": 3,
+        "type": "group",
+        "is_route": "",
+        "is_menu": false
+    },
+    "Setting": {
+        "name": "Setting",
+        "title": "设定",
+        "classtype": 3,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    },
+    "Searchlist": {
+        "name": "Searchlist",
+        "title": "地址",
+        "classtype": 3,
+        "type": "group",
+        "is_route": "",
+        "is_menu": true
+    }
+}

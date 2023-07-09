@@ -1,0 +1,32 @@
+[
+    {
+        "value": "https://cn.bing.com/search?q=",
+        "label": "必应",
+        "id": "kXb-fkfZuYLz"
+    },
+    {
+        "value": "https://github.com/search?q=",
+        "label": "github",
+        "id": "Csz4BBoi3h-h"
+    },
+    {
+        "value": "https://developer.mozilla.org/zh-CN/search?q=",
+        "label": "mozilla",
+        "id": "Q8BNmecTag3y"
+    },
+    {
+        "value": "https://www.baidu.com/s?wd=",
+        "label": "百度",
+        "id": "kHhhJ8f_y7oz"
+    },
+    {
+        "value": "https://www.sogou.com/web?query=",
+        "label": "搜狗",
+        "id": "VZ42F4tvz7q7"
+    },
+    {
+        "value": "https://so.toutiao.com/search?dvpf=pc&source=input&keyword=",
+        "label": "头条",
+        "id": "wEWWyCWMjPIX"
+    }
+]
